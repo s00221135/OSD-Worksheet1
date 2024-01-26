@@ -12,4 +12,4 @@ it ("should return input+1 if the input is positive", () =>{
 expect(result).toBeGreaterThan(1);
 expect(result).toBeLessThanOrEqual(10);
 });
-});
+}); 
